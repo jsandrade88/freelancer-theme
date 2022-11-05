@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: New_Home.jpg
 alt: image-alt
-project-date: April 2014
+project-date: November 2022
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: New Home and Project 
+description: Welcome to our soon to be home, should be closing on this by the end of November, 2022. It has been a nightmare house shopping for homes since COVID. My wife and I are just glad to finally have a home to call ours. We do have a few upgrades we wish to add once we are moved in. 
 ---
