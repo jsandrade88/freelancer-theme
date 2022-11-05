@@ -8,4 +8,21 @@ project-date: November 2022
 client: Start Bootstrap
 category: New Home and Project 
 description: Welcome to our soon to be home, should be closing on this by the end of November, 2022. It has been a nightmare house shopping for homes since COVID. My wife and I are just glad to finally have a home to call ours. We do have a few upgrades we wish to add once we are moved in. 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 ---
