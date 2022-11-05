@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: Favorite_trail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2015
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Lake Blanche 
+description: This is one of my favorite trails in Utah. This one in particular has an amazing view at the top making it worth the difficulty. At the top of the trail is a waterfall consisting of three lakes. Highly recommend this to anyone outdoor loving people. Click on link for some info and direction - https://www.alltrails.com/trail/us/utah/lake-blanche-trail.
 ---
