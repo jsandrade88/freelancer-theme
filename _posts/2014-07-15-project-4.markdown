@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: Daughters.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2024
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Daughters
+description: My two beautiful daugters, Myla (14) and Hailey (1). These kiddos right here are my world, and my future. Everything I do is for the better of my family, I want to have a career that allows me to spend as much time with them. They grow up to quick, right now their age difference is crazy, and at times tough for them. One is with friends all the time and the other, well lets just say the house doesn't stay clean anymore haha. All I can say is, I am proud of being there father and maybe one day they will be proud of me. 
 ---
