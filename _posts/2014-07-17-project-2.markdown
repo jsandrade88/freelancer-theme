@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: Wedding.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2018
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Wedding Day
+description: Our summer wedding day, what a moment to remember. My wife and I were lucky to have all of our family attend our special day. It was fun, crazy, stressful, and at times nerve wrecking day. One thing we would change about this day was the DJ, not our best choice and also totally recommend to add cleanup service. We ended up picking up on our own wedding day, so you get what you pay for. 
 ---
