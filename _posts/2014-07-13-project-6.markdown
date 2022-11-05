@@ -7,31 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
-
-<h2>Bucket List</h2>
-
-<table>
-  <tr>
-    <td>Go on a cruise</td>
-    <td>Travel outside the US</td>
-    <td>Graduate College</td>
-  </tr>
-  <tr>
-    <td>Learn to swim</td>
-    <td>Become a citizen of US</td>
-    <td>Attend a Warriors game</td>
-  </tr>
-  <tr>
-    <td>Visit New Orleans for Saints game</td>
-    <td>Take a tour of Italy</td>
-    <td>Meet a celebrity</td>
-  </tr>
-</table>
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
