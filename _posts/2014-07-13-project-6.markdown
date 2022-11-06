@@ -6,6 +6,6 @@ img: Favorite_trail.jpg
 alt: image-alt
 project-date: June 2015
 client: Start Bootstrap
-category: Lake Blanche 
+url: https://www.alltrails.com/trail/us/utah/lake-blanche-trail 
 description: This is one of my favorite trails in Utah. This one in particular has an amazing view at the top making it worth the difficulty. At the top of the trail is a waterfall consisting of three lakes. Highly recommend this to any outdoor loving people. You won't be dissapointed.
 ---
