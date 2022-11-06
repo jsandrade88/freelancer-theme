@@ -7,6 +7,5 @@ alt: image-alt
 project-date: June 2015
 client: Start Bootstrap
 category: Lake Blanche 
-description: This is one of my favorite trails in Utah. This one in particular has an amazing view at the top making it worth the difficulty. At the top of the trail is a waterfall consisting of three lakes. Highly recommend this to anyone outdoor loving people. Click on link for some info and direction.https://www.alltrails.com/trail/us/utah/lake-blanche-trail
-#<a href="https://www.alltrails.com/trail/us/utah/lake-blanche-trail">Lake Blanche #Trail!</a>
+description: This is one of my favorite trails in Utah. This one in particular has an amazing view at the top making it worth the difficulty. At the top of the trail is a waterfall consisting of three lakes. Highly recommend this to anyone outdoor loving people. Click on link for some info and direction.<button onclick="https://www.alltrails.com/trail/us/utah/lake-blanche-trail">Lake_Blanch</button>
 ---
